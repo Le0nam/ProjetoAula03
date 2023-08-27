@@ -1,18 +1,12 @@
-## Getting Started
+Questão 02
+R: A alternativa correta é a letra A. De acordo com a aula ministrada no dia 08-08-2023 pelo professor Luiz Augusto Rodrigues, As instancias são um objeto recem criado e todas as instancias do codigo estão inicializando corretamente.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Questão 03
+R: A alternativa correta é a letra A. Caso precise um programador consegue criar uma instancia para a classe, só precisando adicionar outra classe a linha de codigo e o mesmo funcionara corretamente.
 
-## Folder Structure
+Questão 04
+R: A alternativa correta é a letra C. De acordo com o pdf disponibilizado pelo professor Luiz Augusto Rodrigues, um objeto Trata-se de uma entidade capaz de reter um estado (informação,
+dados) e que oferece uma série de informações (comportamento), ou para examinar ou para afetar este estado.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Questão 05
+R: A alternativa correta é a letra E. De acordo com o contéudo dado em sala de aula o Encasulamento tem a capacidade de ocultar ou exibir informações.
